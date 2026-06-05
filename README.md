@@ -1,4 +1,10 @@
 # Robô Seguidor de Linha👾
+
+![Arduino](https://img.shields.io/badge/Arduino-UNO-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Language](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
+ 
+
 Robô autonomo que **segue uma linha preta em um fundo branco**.Este projeto funciona com a seguinte lógica:
 
 **Leitura** • Você lê o estado de cada sensor (por exemplo, com digitalRead()). • Cada sensor retorna “linha preta” ou “fundo branco” (pode ser HIGH ou LOW, depende do seu módulo).
